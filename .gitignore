@@ -1,0 +1,14 @@
+# Ignore model weights
+*.safetensors
+final_adapter/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# VS Code
+.vscode/
